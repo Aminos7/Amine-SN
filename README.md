@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aminos7" alt="aminos7" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/amine_sn" target="blank"><img src="https://img.shields.io/twitter/follow/amine_sn?logo=twitter&style=for-the-badge" alt="amine_sn" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aminesn05955325" target="blank"><img src="https://img.shields.io/twitter/follow/aminesn05955325?logo=twitter&style=for-the-badge" alt="aminesn05955325" /></a> </p>
 
 - 🔭 I’m currently working on **State Farm Distracted Driver Detection**
 
@@ -25,14 +25,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/amine_sn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amine_sn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amine snoussi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amine snoussi" height="30" width="40" /></a>
+<a href="https://twitter.com/aminesn05955325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aminesn05955325" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amine-snoussi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amine-snoussi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/aminesn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="aminesn" height="30" width="40" /></a>
-<a href="https://kaggle.com/amine snoussi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amine snoussi" height="30" width="40" /></a>
-<a href="https://fb.com/aminos amine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aminos amine" height="30" width="40" /></a>
+<a href="https://kaggle.com/aminesnoussi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aminesnoussi" height="30" width="40" /></a>
+<a href="https://fb.com/aminos.amine.904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aminos.amine.904" height="30" width="40" /></a>
 <a href="https://instagram.com/amine._sn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amine._sn" height="30" width="40" /></a>
 <a href="https://medium.com/@aminosamine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aminosamine" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/amine snoussi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amine snoussi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucp9n9ns629ayzggia0nladg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucp9n9ns629ayzggia0nladg" height="30" width="40" /></a>
 <a href="https://discord.gg/5580" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5580" height="30" width="40" /></a>
 </p>
 
