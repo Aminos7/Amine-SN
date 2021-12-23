@@ -1,10 +1,10 @@
 ### Hi there, I'm Amine SNOUSSI [Aminos]👋 
 
-[![LinkedIn Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.linkedin.com/in/amine-snoussi/)
+[![LinkedIn Follow]](https://www.linkedin.com/in/amine-snoussi/)
 
 ## I'm a Data Scientist, Data Analyst, and a Video Editor !!
 
-- 🌱 I’m currently learning everything about data sience and data analysis 🤣
+- 🌱 I’m currently learning everything about data sience and data analysis
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love gaming / football
